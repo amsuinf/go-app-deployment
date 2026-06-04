@@ -8,7 +8,7 @@ image:
   repository: amusinf/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "26946576706"
+  tag: "26946828113"
 
 ingress:
   enabled: false
